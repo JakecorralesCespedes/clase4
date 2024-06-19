@@ -1,0 +1,13 @@
+
+body {
+    background-image: url("https://img2.rtve.es/i/?w=1600&i=1618587961630.jpg");
+    background-size: cover;
+}
+.hero {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+#btn {
+    background-color: #e43b3b;
+    color: white;
+    margin: 300px; /* Ajusta este valor según tus necesidades */
+}
